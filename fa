@@ -1,0 +1,35 @@
+[33mcommit 252b7b8328a2abcbd6785f63ed03122981f124f4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: j10mmy <alperen.akcelep@gmail.com>
+Date:   Tue Aug 5 19:43:44 2025 +0300
+
+    initial commit
+
+[33mcommit 6c0da60f3dde2dc5124e0975e8d6f9beaf964c18[m
+Author: j10mmy <alperen.akcelep@gmail.com>
+Date:   Tue Aug 5 19:42:07 2025 +0300
+
+    first commit
+
+[33mcommit 4f4532f30ed580c420a3aad64398ee41d547521c[m
+Author: j10mmy <alperen.akcelep@gmail.com>
+Date:   Tue Aug 5 18:20:19 2025 +0300
+
+    Initial commit
+
+[33mcommit eb836873f3fddca0cdb87a001bf5ece0a4fd7795[m
+Author: j10mmy <alperen.akcelep@gmail.com>
+Date:   Tue Aug 5 18:14:14 2025 +0300
+
+    fix: corrected version formats
+
+[33mcommit 35b1ce1bda1f47db9fa3e5d305cbf9510f9dea0d[m
+Author: j10mmy <alperen.akcelep@gmail.com>
+Date:   Tue Aug 5 18:11:35 2025 +0300
+
+    fix: specify valid TypeScript version
+
+[33mcommit f1e62fc308e87f2183b5bf6f07b6af71761f72cb[m
+Author: j10mmy <alperen.akcelep@gmail.com>
+Date:   Tue Aug 5 18:02:18 2025 +0300
+
+    İlk commit
