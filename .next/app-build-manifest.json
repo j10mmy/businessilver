@@ -93,13 +93,6 @@
       "static/chunks/425-24c3688f8e8e8df2.js",
       "static/chunks/app/page-adba4218a7615492.js"
     ],
-    "/urun/[id]/page": [
-      "static/chunks/webpack-a719ed26285c5a7c.js",
-      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
-      "static/chunks/964-830f77d7ce1c2463.js",
-      "static/chunks/main-app-97677415f7be3d56.js",
-      "static/chunks/app/urun/[id]/page-f6151af46d75573a.js"
-    ],
     "/profil/page": [
       "static/chunks/webpack-a719ed26285c5a7c.js",
       "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
@@ -117,6 +110,13 @@
       "static/chunks/874-437a265a67d6cfee.js",
       "static/chunks/425-24c3688f8e8e8df2.js",
       "static/chunks/app/sepet/page-5b0af39f224cbeb7.js"
+    ],
+    "/urun/[id]/page": [
+      "static/chunks/webpack-a719ed26285c5a7c.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-830f77d7ce1c2463.js",
+      "static/chunks/main-app-97677415f7be3d56.js",
+      "static/chunks/app/urun/[id]/page-f6151af46d75573a.js"
     ]
   }
 }
